@@ -1,98 +1,136 @@
-# Prompt-Engineering-Learning-Guide
-
 # 🤖 AI Engineering Bucket
 
-> A personal learning bucket for mastering AI Engineering—from prompt engineering and LLM fundamentals to building AI-powered applications, workflows, and intelligent agents.
+> A structured collection of notes, examples, experiments, and projects for learning modern AI Engineering—from AI fundamentals and prompt engineering to AI agents, RAG, and production-ready AI applications.
 
 ## 📖 About
 
-This repository serves as my knowledge base for learning modern AI Engineering. It contains notes, examples, experiments, projects, and resources that help me understand how to effectively build, integrate, and utilize AI technologies in real-world applications.
+This repository documents my journey in learning AI Engineering. It serves as a centralized knowledge base where I organize concepts, hands-on experiments, code examples, prompt patterns, and real-world projects.
 
-The goal is not only to learn how AI works, but also how to design reliable AI systems, create better prompts, integrate AI with external tools, and develop production-ready AI applications.
-
----
-
-## 🎯 Learning Goals
-
-- Understand AI and LLM fundamentals
-- Master prompt engineering techniques
-- Learn context engineering and memory management
-- Build AI workflows and automations
-- Integrate AI using APIs and tool calling
-- Explore Retrieval-Augmented Generation (RAG)
-- Develop AI agents and autonomous systems
-- Apply AI to real-world software projects
-- Follow AI best practices and safety principles
+The goal is to understand not only how Large Language Models (LLMs) work, but also how to effectively utilize them to build intelligent, reliable, and scalable AI-powered applications.
 
 ---
 
-## 📂 Repository Structure
+# 🎯 Learning Roadmap
+
+- AI & LLM Fundamentals
+- Prompt Engineering
+- Advanced Prompting Techniques
+- Structured Outputs
+- Context Engineering
+- Function Calling & Tool Use
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Optimization
+- AI Safety
+- Model Comparison
+- AI APIs
+- AI Workflows
+- Real-World Projects
+
+---
+
+# 📂 Repository Structure
 
 ```text
-01-ai-fundamentals/
-02-llm-fundamentals/
-03-prompt-engineering/
-04-advanced-prompting/
-05-structured-outputs/
-06-context-engineering/
-07-function-calling/
-08-rag/
-09-ai-agents/
-10-ai-workflows/
-11-ai-apis/
-12-ai-safety/
-13-projects/
-14-resources/
-15-notes/
+01-ai-llm-fundamentals/
+02-prompt-engineering/
+03-prompting-techniques/
+04-structured-outputs/
+05-context-engineering/
+06-function-calling/
+07-rag/
+08-ai-agents/
+09-prompt-optimization/
+10-ai-safety/
+11-model-comparison/
+12-ai-apis/
+13-ai-workflows/
+14-projects/
+15-resources/
 ```
 
 ---
 
-## 📚 What You'll Find
+# 📚 Repository Contents
 
-- 📖 Learning Notes
-- 💻 Code Examples
+Each folder may contain:
+
+- 📖 Notes
+- 📝 Documentation
+- 💡 Examples
 - 🧪 Experiments
-- 📝 Prompt Templates
-- 🤖 AI Workflows
-- 🔌 API Integrations
-- 🚀 Mini Projects
+- 💻 Sample Code
+- 🎯 Best Practices
 - 📑 Cheat Sheets
-- 📚 Useful Resources
+- 🚀 Mini Projects
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠 Topics Covered
 
+### AI & LLM Fundamentals
+- Artificial Intelligence
+- Large Language Models
+- Tokens
+- Tokenization
+- Context Window
+- Temperature
+- Hallucinations
+
+### Prompt Engineering
+- Prompt Structure
+- Role Prompting
+- Few-shot Prompting
+- Prompt Templates
+- Constraints
+
+### Context Engineering
+- Memory
+- Long Context
+- Context Injection
+- Context Management
+
+### Function Calling
+- Tool Calling
+- APIs
+- MCP
+- External Integrations
+
+### RAG
+- Embeddings
+- Chunking
+- Vector Databases
+- Semantic Search
+
+### AI Agents
+- Planning
+- Memory
+- Tool Use
+- Multi-Agent Systems
+
+### AI APIs
 - OpenAI
-- Anthropic Claude
-- Google Gemini
+- Anthropic
+- Gemini
 - OpenRouter
 - Groq
 - Hugging Face
-- Python
-- TypeScript
-- JavaScript
-- LangGraph
-- CrewAI
-- OpenAI Agents SDK
-- PydanticAI
+
+### AI Workflows
+- VS Code
+- Claude Code
+- GitHub Copilot
 - n8n
 - Docker
-- Git & GitHub
 
 ---
 
-## 🚀 Purpose
+# 🎯 Goal
 
-This repository is created for continuous learning, experimentation, and documenting my journey in AI Engineering. As I learn new concepts, discover useful resources, or build AI-powered projects, this repository will continue to grow.
-
----
-
-## ⭐ Disclaimer
-
-This repository is intended for educational purposes. Content may evolve over time as new AI technologies, tools, and best practices emerge.
+Build a strong foundation in AI Engineering by combining theory with hands-on practice, focusing on creating useful AI-powered applications and workflows.
 
 ---
 
-Happy Learning! 🚀
+# 📄 License
+
+This repository is intended for educational purposes and continuous learning.
